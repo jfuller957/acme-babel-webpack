@@ -1,4 +1,6 @@
-
+import React from 'react';
+import ReactRouterDOM from 'react-router-dom';
+const { HashRouter, Route } = ReactRouterDOM;
 
 class App extends React.Component{
     constructor(){

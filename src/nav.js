@@ -1,4 +1,5 @@
-
+import ReactRouterDOM from 'react-router-dom';
+const { NavLink } = ReactRouterDOM;
 
       const Nav = ({ people, places, things })=> {
         const links = [
